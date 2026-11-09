@@ -1,5 +1,7 @@
 # Quizzes educativos de NeuroMatrona
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24088093.svg)](https://doi.org/10.5281/zenodo.24088093)
+
 **Autora:** Ayleen Bastías, matrona ([ORCID 0009-0008-5954-6821](https://orcid.org/0009-0008-5954-6821)), NeuroMatrona, Chile.
 
 Método, fuentes y verificación de dos herramientas educativas gratuitas en español:
@@ -26,7 +28,7 @@ https://neuromatrona.com/tests/test-validado
 
 ## Cómo citar
 
-Usa el botón «Cite this repository» o el DOI de Zenodo de la versión publicada.
+Bastías, A. (2026). *Quizzes educativos de NeuroMatrona: Quiz SOMP (test de SOP) y quiz de endometriosis y adenomiosis. Método, fuentes y verificación* (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.24088093
 
 ## Licencia
 

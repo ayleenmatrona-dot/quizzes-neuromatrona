@@ -7,6 +7,7 @@ authors:
     affiliation: "NeuroMatrona, Chile"
     orcid: "https://orcid.org/0009-0008-5954-6821"
 version: 1.0.0
+doi: 10.5281/zenodo.24088093
 date-released: 2026-11-09
 license: CC-BY-4.0
 url: "https://neuromatrona.com/tests/test-validado"
