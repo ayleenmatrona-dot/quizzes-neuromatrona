@@ -1,0 +1,31 @@
+{
+  "fecha": "2026-10-05",
+  "scope": "Combinaciones sintéticas únicas; frecuencias estructurales, no prevalencia de pacientes. Prueba técnica, no validación clínica.",
+  "total": 100000,
+  "unique": 100000,
+  "nonDeterministic": 0,
+  "violations": 0,
+  "examples": [],
+  "resultCounts": {
+    "A": 6047,
+    "B": 5924,
+    "C": 882,
+    "D": 1228,
+    "A_B": 17629,
+    "A_C": 3080,
+    "A_D": 684,
+    "insufficient": 47380,
+    "probable_D": 1240,
+    "conditional": 2,
+    "hard_stop": 2,
+    "adolescent": 15901,
+    "historical": 1
+  },
+  "rules": [
+    "tipo de resultado válido",
+    "fenotipo cerrado coincide con el patrón de ejes exigido",
+    "sin fenotipo con menos de dos ejes positivos",
+    "eje con alerta (red_flag) nunca entrega fenotipo",
+    "misma respuesta, mismo resultado (determinismo)"
+  ]
+}

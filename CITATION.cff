@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "Si usas o citas este material, cítalo así."
+title: "Quizzes educativos de NeuroMatrona: Quiz SOMP (test de SOP) y quiz de endometriosis y adenomiosis. Método, fuentes y verificación"
+authors:
+  - family-names: "Bastías"
+    given-names: "Ayleen"
+    affiliation: "NeuroMatrona, Chile"
+    orcid: "https://orcid.org/0009-0008-5954-6821"
+version: 1.0.0
+date-released: 2026-11-09
+license: CC-BY-4.0
+url: "https://neuromatrona.com/tests/test-validado"
+repository-code: "https://github.com/ayleenmatrona-dot/quizzes-neuromatrona"
+keywords:
+  - "SOMP"
+  - "PMOS"
+  - "SOP"
+  - "PCOS"
+  - "síndrome de ovario poliquístico"
+  - "endometriosis"
+  - "adenomiosis"
+  - "dismenorrea"
+  - "sangrado menstrual abundante"
+  - "herramienta educativa"
+  - "sistema basado en reglas"
+  - "salud digital"
+  - "Chile"

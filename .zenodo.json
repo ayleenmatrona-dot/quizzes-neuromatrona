@@ -1,0 +1,78 @@
+{
+  "title": "Quizzes educativos de NeuroMatrona: Quiz SOMP (test de SOP) y quiz de endometriosis y adenomiosis. Método, fuentes y verificación",
+  "description": "Método, fuentes y verificación de dos herramientas educativas gratuitas creadas por Ayleen Bastías, matrona (NeuroMatrona, Chile). El Quiz SOMP (test de SOP) ordena las tres piezas del síndrome ovárico metabólico poliendocrino (antes síndrome de ovario poliquístico) según la guía internacional basada en evidencia de 2023 y los criterios de Rotterdam; se verificó con 38 casos clínicos, 10.000 recorridos y 100.000 combinaciones sin incoherencias. El quiz de endometriosis y adenomiosis ordena el dolor de regla y el sangrado según ESHRE 2022, FIGO 2018, NICE NG88 y ACOG 785; cada pregunta y regla está trazada a su fuente y se verificó con 59 casos clínicos y 100.000 recorridos. Ninguno diagnostica. Ninguno tiene todavía un estudio de exactitud diagnóstica frente a evaluación clínica independiente.",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "creators": [
+    {
+      "name": "Bastías, Ayleen",
+      "affiliation": "NeuroMatrona, Chile",
+      "orcid": "0009-0008-5954-6821"
+    }
+  ],
+  "keywords": [
+    "SOMP",
+    "PMOS",
+    "SOP",
+    "PCOS",
+    "síndrome de ovario poliquístico",
+    "endometriosis",
+    "adenomiosis",
+    "dismenorrea",
+    "sangrado menstrual abundante",
+    "herramienta educativa",
+    "sistema basado en reglas",
+    "salud digital",
+    "Chile"
+  ],
+  "license": "cc-by-4.0",
+  "language": "spa",
+  "version": "1.0.0",
+  "related_identifiers": [
+    {
+      "identifier": "https://quiz.neuromatrona.com/",
+      "relation": "isSupplementedBy",
+      "resource_type": "other"
+    },
+    {
+      "identifier": "https://endometriosis.neuromatrona.com/",
+      "relation": "isSupplementedBy",
+      "resource_type": "other"
+    },
+    {
+      "identifier": "https://neuromatrona.com/somp/quiz-somp/validacion",
+      "relation": "isDocumentedBy",
+      "resource_type": "other"
+    },
+    {
+      "identifier": "https://neuromatrona.com/endometriosis/validacion",
+      "relation": "isDocumentedBy",
+      "resource_type": "other"
+    },
+    {
+      "identifier": "10.1093/humrep/dead156",
+      "relation": "references",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.1093/humrep/deh098",
+      "relation": "references",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.1093/hropen/hoac009",
+      "relation": "references",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.1002/ijgo.12666",
+      "relation": "references",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.1097/AOG.0000000000003411",
+      "relation": "references",
+      "scheme": "doi"
+    }
+  ]
+}
