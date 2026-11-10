@@ -21,7 +21,9 @@ anticonceptivos hormonales que ocultan el ciclo. No diagnostica.
 - `suplemento-S1-matriz-38-casos.md`: 38 casos clínicos y su resultado esperado.
 - `suplemento-S2-resumen-100000.csv` y `suplemento-S3-invariantes-100000.json`: 100.000 combinaciones sintéticas únicas, 0 incoherencias.
 
-Son datos sintéticos, no de pacientes. Prueban que el motor aplica sus reglas de forma consistente; no miden
+- `informe-concordancia-quiz-somp.pdf`: estudio retrospectivo preliminar con 42 pacientes y doble evaluación ciega: 41/42 (97,6 %) con la autora y 40/42 (95,2 %) con una matrona independiente.
+
+Los suplementos S1 a S3 son datos sintéticos, no de pacientes. Prueban que el motor aplica sus reglas de forma consistente; no miden
 exactitud diagnóstica, que queda pendiente.
 
 Descripción pública: https://neuromatrona.com/somp/quiz-somp/validacion

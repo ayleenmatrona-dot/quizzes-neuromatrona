@@ -1,6 +1,6 @@
 {
   "title": "Quizzes educativos de NeuroMatrona: Quiz SOMP (test de SOP) y quiz de endometriosis y adenomiosis. Método, fuentes y verificación",
-  "description": "Método, fuentes y verificación de dos herramientas educativas gratuitas creadas por Ayleen Bastías, matrona (NeuroMatrona, Chile). El Quiz SOMP (test de SOP) ordena las tres piezas del síndrome ovárico metabólico poliendocrino (antes síndrome de ovario poliquístico) según la guía internacional basada en evidencia de 2023 y los criterios de Rotterdam; se verificó con 38 casos clínicos, 10.000 recorridos y 100.000 combinaciones sin incoherencias. El quiz de endometriosis y adenomiosis ordena el dolor de regla y el sangrado según ESHRE 2022, FIGO 2018, NICE NG88 y ACOG 785; cada pregunta y regla está trazada a su fuente y se verificó con 59 casos clínicos y 100.000 recorridos. Ninguno diagnostica. Ninguno tiene todavía un estudio de exactitud diagnóstica frente a evaluación clínica independiente.",
+  "description": "Método, fuentes y verificación de dos herramientas educativas gratuitas creadas por Ayleen Bastías, matrona (NeuroMatrona, Chile). El Quiz SOMP (test de SOP) ordena las tres piezas del síndrome ovárico metabólico poliendocrino (antes síndrome de ovario poliquístico) según la guía internacional basada en evidencia de 2023 y los criterios de Rotterdam; se verificó con 38 casos clínicos, 10.000 recorridos y 100.000 combinaciones sin incoherencias. El quiz de endometriosis y adenomiosis ordena el dolor de regla y el sangrado según ESHRE 2022, FIGO 2018, NICE NG88 y ACOG 785; cada pregunta y regla está trazada a su fuente y se verificó con 59 casos clínicos y 100.000 recorridos. Ninguno diagnostica. Ninguno tiene todavía un estudio de exactitud diagnóstica frente a evaluación clínica independiente. Versión 1.1.0: se agrega un estudio retrospectivo preliminar de concordancia del Quiz SOMP con la evaluación clínica en 42 pacientes, con doble evaluación ciega (la autora y una matrona independiente) según los criterios de Rotterdam: el quiz coincidió en 41 de 42 casos con la autora (97,6 %; IC 95 % 87,7–99,6) y en 40 de 42 con la evaluadora independiente (95,2 %; IC 95 % 84,2–98,7); no asignó fenotipo a ninguna paciente evaluada como «no es SOMP»; acuerdo entre evaluadoras 41/42 (kappa 0,97). Requiere confirmación prospectiva.",
   "upload_type": "publication",
   "publication_type": "preprint",
   "creators": [
@@ -23,11 +23,14 @@
     "herramienta educativa",
     "sistema basado en reglas",
     "salud digital",
-    "Chile"
+    "Chile",
+    "concordancia",
+    "validación preliminar",
+    "kappa de Cohen"
   ],
   "license": "cc-by-4.0",
   "language": "spa",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "related_identifiers": [
     {
       "identifier": "https://quiz.neuromatrona.com/",
